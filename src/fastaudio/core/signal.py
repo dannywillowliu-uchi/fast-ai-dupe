@@ -12,7 +12,7 @@ from fastcore.dispatch import typedispatch
 from fastcore.meta import delegates
 from fastcore.utils import ifnone
 from IPython.display import Audio, display
-from librosa.display import waveplot
+from librosa.display import waveshow
 from os import path
 
 audio_extensions = tuple(
