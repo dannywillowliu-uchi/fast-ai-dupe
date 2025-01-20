@@ -4,7 +4,7 @@
 
 
 # Fastaudio
-> An audio module for fastai v2. We want to help you build audio machine learning applications while minimizing the need for audio domain expertise.
+> This is an edited version of Fastaudio v2 to work with librosa 0.10.2 since waveplot has been changed to waveshow An audio module for fastai v2. We want to help you build audio machine learning applications while minimizing the need for audio domain expertise. 
 
 # Quick Start
 
